@@ -1,2 +1,0 @@
-# SpiderLearn
-web crawler project 
